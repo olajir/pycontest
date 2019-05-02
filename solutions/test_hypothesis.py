@@ -3,7 +3,7 @@ import pytest
 
 from hypothesis import given, strategies as st
 
-from pycontest import simulation as sim2d                                      
+from pycontest import simulation as sim2d
 from pycontest.utils import momentum, E_kin
 
 # hypothesis simple example
